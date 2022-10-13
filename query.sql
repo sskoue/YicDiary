@@ -1,7 +1,4 @@
 
-create database apr01;
-use apr01;
-
 create table categories(
     category_id int primary key,
     category_name nvarchar(15)
